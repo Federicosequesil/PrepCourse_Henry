@@ -1,2 +1,1 @@
-# PrepCourse_Henry
-Prueba para el Prepcourse de Henry
+prueba de como crear un repositorio y clonarlo desde github en mi computadora
